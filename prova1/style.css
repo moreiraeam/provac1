@@ -1,0 +1,186 @@
+.lato-thin {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .lato-light {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .lato-bold {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .lato-black {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .lato-thin-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .lato-light-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .lato-regular-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .lato-bold-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .lato-black-italic {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+.h1{
+    width: 566px;
+    height: 77px;
+    margin-top: 85px;
+    margin-left: 344px;
+    border-radius: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 76.8px;
+    letter-spacing: 0.01em;
+    text-align: left;
+
+}
+
+.p{
+    width: 566px;
+    height: 128px;
+    margin-top: 100px;
+    margin-left: 344px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: justify;
+
+}
+
+.botao{
+    width: Hug (222px)px;
+    height: Hug (66px)px;
+    margin-top: 371px;
+    margin-left: 516px;
+    padding: 24px ;
+    gap: 10px;
+    border-radius: 40px 0px 0px 0px;
+    opacity: 0px;
+    color: white;
+    background: #333333;
+
+}
+
+
+
+
+.encima{
+    width: 566px;
+    height: 352px;
+    margin-top: 85px;
+    margin-left: 344px;
+    border-radius: 40px;
+}
+
+#circulos{
+    display: flex;
+    flex-direction: column;
+    height: 10vh
+}
+
+.azul{
+    width: 148px;
+    height: 148px;
+    margin-top: 10px;
+    margin-left: 947px;
+}
+
+.amarelo{
+    width: 148px;
+    height: 148px;
+    margin-top: 10px;
+    margin-left: 945px;
+}
+
+.rosa{
+    width: 148px;
+    height: 148px;
+    margin-top: 10px;
+    margin-left: 948px;
+}
+
+
+
+
+.prato{
+    width: 302px;
+    height: 348px;
+    margin-top: 633px;
+    margin-left: 43px;
+    border-radius: 40px;
+    border: 1px 0px 0px 0px;
+    color: #333333;
+}
+
+.balinhas{
+    width: 302px;
+    height: 348px;
+    margin-top: 633px;
+    margin-left: 70px;
+    border-radius: 40px;
+    border: 1px 0px 0px 0px;
+    color: #333333;
+    
+}
+
+.rosquinhas1{
+    width: 302px;
+    height: 348px;
+    margin-top: 633px;
+    margin-left: 70px;
+    border-radius: 40px;
+    border: 1px 1px 1px 1px;
+    color: #333333;
+}
+
+.rosquinhas2{
+    width: 302px;
+    height: 348px;
+    margin-top: 633px;
+    margin-left: 70px;
+    border-radius: 40px;
+    border: 1px 0px 0px 0px;
+    color: #333333;
+}
+
+
+
+
+
